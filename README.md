@@ -14,7 +14,7 @@
 
 目前我正专注于以下产品的迭代与优化：
 
-### ✍️ [SEO Signal]((https://seosignal.app/)
+### ✍️ [SEO Signal](https://seosignal.app/)
 **SEO Anaylzer**
 - **定位**：一键链接google search console，用站内真实的数据做SEO分析
 - **特色**：发现最快的SEO增长机会，降低持续流失的流量
