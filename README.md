@@ -42,6 +42,12 @@
 - **定位**：Shopify 
 - **特色**：Fashion women clothing
 - **状态**：持续迭代中。
+
+
+### ✍️ [DTCify](https://dtcify.com/)
+**FIBFLX**
+- **定位**：DTC 
+- **状态**：持续迭代中。
 ---
 
 ## 🛠 技术栈
