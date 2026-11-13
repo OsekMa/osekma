@@ -1,72 +1,39 @@
 
 # 👋 你好，我是 Osek Ma
 
-一个十多年的SEO，我都在大企业做内部的甲方SEO
+**10+ 年企业甲方 SEO · 7 年外企 SEO · 运营过 3 个百万级流量网站**
 
-从SEO最开始，做外链就有排名，后面是做站群和灰帽，到移动端占大头的抢流量时代，出海SEO，从百度转谷歌（7年外企SEO）
+我做 SEO 的时候，外链还真能把排名推上去。后来做过站群，经历过移动端抢流量，也做过从百度转向 Google 的出海增长。十多年都在企业内部做 SEO，做得最多的是技术 SEO，也亲手运营过 3 个流量超过百万的网站。
 
-到现在的GEO和AI的时代，紧跟算法变化，找到流量入口，一直做自然流量的增长布局
+## 大站技术 SEO
 
+我的主场是技术 SEO。抓取、索引、网站架构、国际化和大型站点的自然增长，是我做了十多年的事。做大站最有意思的地方，是一次模板或架构调整，就可能改变整个目录在搜索里的表现。
 
----
+## 自研工具和 AI Agent
 
-## 🚀 我的核心产品
+做 SEO 这些年，我给自己造了不少工具。很多工具的起点很简单：手上有个具体需求，现成工具不顺手，我就自己写一个。
 
-目前我正专注于以下产品的迭代与优化：
+现在，我让 AI Agent 直接连接 Google Search Console 和 GA4，再把分析、监控和复盘接进自动化工作流。做 SEO 的同时，我也在做自己想用的 SEO 产品。
 
-### ✍️ [SEO Signal](https://seosignal.app/)
-**SEO Anaylzer**
-- **定位**：一键链接google search console，用站内真实的数据做SEO分析
-- **特色**：发现最快的SEO增长机会，降低持续流失的流量
-- **状态**：内测中
+## GEO 和 AI 搜索
 
-### ✈️ [AIJet](https://aijet.cc)
-**全方位 AI 工具导航平台**
-- **定位**：全球领先的 AI 工具发现中心。
-- **特色**：收录最新、最前沿的 AI 应用，提供多维度的工具评测与分类，帮助用户快速找到最适合的 AI 解决方案。
-- **状态**：已正式上线运营。
+现在我也做 GEO，关注 Google AI Overviews、AI Mode、ChatGPT Search、Copilot 和 Perplexity。相比传统搜索多出来的一层是，用户可能连结果页都不用翻，就已经在答案里看见了某个品牌。
 
-### ✍️ [Osek AI](https://oesk.ai)
-**SEO工具**
-- **定位**：SEO工具，免费SEO工具
+Google Search Console 已经有生成式 AI 表现报告，Bing 也把引用和主题机会做进了站长工具。我现在感兴趣的是，在用户开始把选型和比较交给 AI 之后，哪些品牌会出现在答案里，哪些网站会成为它引用的来源。
 
+## 我在做的项目
 
-### ✍️ [FIBFLX](https://fibflx.com/)
-**FIBFLX**
-- **定位**：Shopify 
-- **特色**：Fashion women clothing
-- **状态**：持续迭代中。
+| 项目 | 简介 |
+| --- | --- |
+| [SEO Signal](https://seosignal.app/) | 基于 Google Search Console 数据的 SEO 分析产品。 |
+| [AIJet](https://aijet.cc) | 帮你发现 AI 产品的工具导航。 |
+| [Osek AI](https://oesk.ai) | 我自己做的一组免费 SEO 工具。 |
+| [FIBFLX](https://fibflx.com/) | 基于 Shopify 的女装独立站。 |
+| [DTCify](https://dtcify.com/) | DTC 方向的项目。 |
+| [Greatooly](https://greatooly.com/) | 应用项目。 |
 
+## 找我
 
-### ✍️ [DTCify](https://dtcify.com/)
-**FIBFLX**
-- **定位**：DTC 
+技术 SEO · 出海增长 · GEO · AI Agent
 
----
-
-### ✍️ [Greatooly](https://greatooly.com/)
-**FIBFLX**
-- **定位**：APP  
-
----
-## 🛠 技术栈
-
-- **前端**: Next.js, React, Tailwind CSS
-- **后端**: Node.js, Payload CMS, Strapi
-- **部署**: Vercel, Zeabur
-- **AI 领域**: 大模型 API 集成, Prompt Engineering
-
----
-
-
----
-
-## 📫 联系我
-
-- 🌐 官方网站: [aijet.cc](https://aijet.cc)
-- 📧 邮箱: [你的邮箱地址]
-- 💬 微信/公众号: [你的信息]
-
----
-
-<p align="right"><i>“AI 改变生活，我们让 AI 触手可及。”</i></p>
+[X](https://x.com/OsekMaaaa) · [LinkedIn](https://www.linkedin.com/in/osekma/)
