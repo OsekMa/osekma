@@ -31,12 +31,6 @@
 - **定位**：SEO工具，免费SEO工具
 
 
-### ✍️ [Undetectable.top](http://undetectable.top/)
-**AI Detector**
-- **定位**：专注于提升内容质量与效率的写作神器。
-- **特色**：旨在帮助学生和创作者优化文章结构、提升语言表达，并有效解决写作过程中的各种痛点。
-- **状态**：持续迭代中。
-
 ### ✍️ [FIBFLX](https://fibflx.com/)
 **FIBFLX**
 - **定位**：Shopify 
@@ -47,9 +41,14 @@
 ### ✍️ [DTCify](https://dtcify.com/)
 **FIBFLX**
 - **定位**：DTC 
-- **状态**：持续迭代中。
+
 ---
 
+### ✍️ [Greatooly](https://greatooly.com/)
+**FIBFLX**
+- **定位**：APP  
+
+---
 ## 🛠 技术栈
 
 - **前端**: Next.js, React, Tailwind CSS
