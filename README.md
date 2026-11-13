@@ -5,9 +5,11 @@
 
 我做 SEO 的时候，外链还真能把排名推上去。后来做过站群，经历过移动端抢流量，也做过从百度转向 Google 的出海增长。十多年都在企业内部做 SEO，做得最多的是技术 SEO，也亲手运营过 3 个流量超过百万的网站。
 
+
 ## 大站技术 SEO
 
 我的主场是技术 SEO。抓取、索引、网站架构、国际化和大型站点的自然增长，是我做了十多年的事。做大站最有意思的地方，是一次模板或架构调整，就可能改变整个目录在搜索里的表现。
+
 
 ## 自研工具和 AI Agent
 
@@ -15,11 +17,13 @@
 
 现在，我让 AI Agent 直接连接 Google Search Console 和 GA4，再把分析、监控和复盘接进自动化工作流。做 SEO 的同时，我也在做自己想用的 SEO 产品。
 
+
 ## GEO 和 AI 搜索
 
 现在我也做 GEO，关注 Google AI Overviews、AI Mode、ChatGPT Search、Copilot 和 Perplexity。相比传统搜索多出来的一层是，用户可能连结果页都不用翻，就已经在答案里看见了某个品牌。
 
 Google Search Console 已经有生成式 AI 表现报告，Bing 也把引用和主题机会做进了站长工具。我现在感兴趣的是，在用户开始把选型和比较交给 AI 之后，哪些品牌会出现在答案里，哪些网站会成为它引用的来源。
+
 
 ## 我在做的项目
 
@@ -31,6 +35,7 @@ Google Search Console 已经有生成式 AI 表现报告，Bing 也把引用和�
 | [FIBFLX](https://fibflx.com/) | 基于 Shopify 的女装独立站。 |
 | [DTCify](https://dtcify.com/) | DTC 方向的项目。 |
 | [Greatooly](https://greatooly.com/) | 应用项目。 |
+
 
 ## 找我
 
